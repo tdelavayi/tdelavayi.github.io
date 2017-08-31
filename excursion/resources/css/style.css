@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana;
+}
+h1{
+  font-weight:normal;
+  font-size:50px;
+  color:white;
+  text-align:center;
+}
+h2{
+font-weight: 300;
+font-size: 42px;
+}
+h3 {
+  font-size: 21px;
+  color: gray;
+}
+h5 {
+  color:aquamarine;
+  font-size: 16px
+}
